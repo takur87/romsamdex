@@ -1,0 +1,2 @@
+# romsamdex
+safelink romsamdex
